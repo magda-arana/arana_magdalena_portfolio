@@ -1,0 +1,13 @@
+.portafolio{
+    
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: #090979;
+    
+}
+
+.titulo_portafolio{
+    color: whitesmoke;
+    text-align: center;
+}

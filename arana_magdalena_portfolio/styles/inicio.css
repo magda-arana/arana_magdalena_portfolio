@@ -1,0 +1,37 @@
+.inicio{
+    display: flex;
+    justify-content: space-evenly;
+    align-content: center;
+    padding-top: 150px;
+    height: 100vh;
+    background-color: #090979;
+}
+
+.titulo_container{
+    padding-top: 200px;
+    text-align: center;
+    color: whitesmoke
+}
+
+.titulo_inicio{
+    font-size: 40px;
+    
+    color: aqua
+}
+
+.titulo_texto{
+    font-size: 12px;
+    color: whitesmoke;
+    
+}
+
+
+
+.imagen_inicio{
+    width: 40%;
+    height: 20%;
+    border-radius: 50%;
+
+}
+
+

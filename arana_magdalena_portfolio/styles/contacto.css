@@ -1,0 +1,22 @@
+.contacto{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    padding-top: 10%;
+    background-color: #090979;
+    
+}
+
+.titulo_contacto{
+    text-align: center;
+    color: whitesmoke;
+}
+
+.form_container{
+   max-width: 900px;
+   padding: 10%;
+    padding-left:400px;
+    align-items: center;
+    color: whitesmoke;
+}
